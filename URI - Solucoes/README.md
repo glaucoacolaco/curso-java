@@ -1,5 +1,4 @@
-Minhas soluções pros problemas da categoria INICIANTE do juiz online URI pedidos no curso:
-[Seçāo 4 - Estrutura Sequencial]
+Minhas soluções pros problemas da categoria INICIANTE do juiz online URI pedidos no curso [Seçāo 4 - Estrutura Sequencial]:
 
 [1003 - Soma Simples](https://judge.beecrowd.com/pt/problems/view/1003“)
 
