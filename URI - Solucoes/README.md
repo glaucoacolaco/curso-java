@@ -30,3 +30,12 @@ Minhas soluções pros problemas da categoria INICIANTE do juiz online URI pedid
 
 [1051	- Imposto de Renda](https://judge.beecrowd.com/pt/problems/view/1051)
 
+
+[Seçāo 6 - Estrutura Sequencial]
+
+[1114 -	Senha Fixa](https://judge.beecrowd.com/pt/problems/view/1114)
+
+[1115	- Quadrante](https://judge.beecrowd.com/pt/problems/view/1115)
+
+[1134	- Tipo de Combustível](https://judge.beecrowd.com/pt/problems/view/1134)
+
