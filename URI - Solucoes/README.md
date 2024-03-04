@@ -31,7 +31,7 @@ Minhas soluções pros problemas da categoria INICIANTE do juiz online URI pedid
 [1051	- Imposto de Renda](https://judge.beecrowd.com/pt/problems/view/1051)
 
 
-[Seçāo 6 - Estrutura Repititiva]
+[Seçāo 6 - Estruturas Repititivas]
 
 [1114 -	Senha Fixa](https://judge.beecrowd.com/pt/problems/view/1114)
 
