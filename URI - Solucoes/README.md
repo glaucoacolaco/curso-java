@@ -31,11 +31,25 @@ Minhas soluções pros problemas da categoria INICIANTE do juiz online URI pedid
 [1051	- Imposto de Renda](https://judge.beecrowd.com/pt/problems/view/1051)
 
 
-[Seçāo 6 - Estrutura Sequencial]
+[Seçāo 6 - Estrutura Repititiva]
 
 [1114 -	Senha Fixa](https://judge.beecrowd.com/pt/problems/view/1114)
 
 [1115	- Quadrante](https://judge.beecrowd.com/pt/problems/view/1115)
 
 [1134	- Tipo de Combustível](https://judge.beecrowd.com/pt/problems/view/1134)
+
+[1067	- Números Ímpares](https://judge.beecrowd.com/pt/problems/view/1067)
+
+[1072	- Intervalo 2](https://judge.beecrowd.com/pt/problems/view/1072)
+
+[1079	- Médias Ponderadas](https://judge.beecrowd.com/pt/problems/view/1079)
+
+[1116	- Dividindo X por Y](https://judge.beecrowd.com/pt/problems/view/1116)
+
+[1153	- Fatorial Simples](https://judge.beecrowd.com/pt/problems/view/1153)
+
+[1157	- Divisores I](https://judge.beecrowd.com/pt/problems/view/1157)
+
+[1143	- Quadrado e ao Cubo](https://judge.beecrowd.com/pt/problems/view/1143)
 
